@@ -3,17 +3,17 @@
  * Testovací třída.
  */
 
-package ija.ija2022.homework1;
+package ija.ija2022.homework2;
 
-import ija.ija2022.homework1.common.Field;
-import ija.ija2022.homework1.common.Maze;
-import ija.ija2022.homework1.common.MazeObject;
-import ija.ija2022.homework1.game.MazeConfigure;
-import ija.ija2022.homework1.game.PacmanObject;
-import ija.ija2022.homework1.game.PathField;
-import ija.ija2022.homework1.game.WallField;
-import org.junit.Test;
+import ija.ija2022.homework2.tool.common.Field;
+import ija.ija2022.homework2.tool.common.Maze;
+import ija.ija2022.homework2.tool.common.MazeObject;
+import ija.ija2022.homework2.tool.game.MazeConfigure;
+import ija.ija2022.homework2.tool.game.PacmanObject;
+import ija.ija2022.homework2.tool.game.PathField;
+import ija.ija2022.homework2.tool.game.WallField;
 import org.junit.Assert;
+import org.junit.Test;
 /**
  * Testovací třída pro první úkol z předmětu IJA 2022/23.
  * @author koci

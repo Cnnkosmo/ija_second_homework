@@ -1,4 +1,4 @@
-package ija.ija2022.homework1.common;
+package ija.ija2022.homework2.tool.common;
 
 import java.io.File;
 import java.lang.reflect.Array;
@@ -13,10 +13,7 @@ public interface Field {
         public int deltaCol(){
             return 0;
         }
-
-
-    }
-
+1}
     int symbol = '0';
     int row = 0;
     int col = 0;

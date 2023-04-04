@@ -1,8 +1,8 @@
-package ija.ija2022.homework1.game;
+package ija.ija2022.homework2.tool.game;
 
-import ija.ija2022.homework1.common.Field;
-import ija.ija2022.homework1.common.Maze;
-import ija.ija2022.homework1.common.MazeObject;
+import ija.ija2022.homework2.tool.common.Field;
+import ija.ija2022.homework2.tool.common.Maze;
+import ija.ija2022.homework2.tool.common.MazeObject;
 
 import java.util.Objects;
 

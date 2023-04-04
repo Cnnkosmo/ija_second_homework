@@ -1,4 +1,4 @@
-package ija.ija2022.homework1.common;
+package ija.ija2022.homework2.tool.common;
 
 import java.util.ArrayList;
 import java.util.List;
